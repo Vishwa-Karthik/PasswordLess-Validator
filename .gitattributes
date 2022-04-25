@@ -1,7 +1,1 @@
-*.CPP linguist-detectable=false
-*.swift linguist-detectable=false
-*.js linguist-detectable=false
-*.html linguist-detectable=false  
-*.c linguist-detectable=false
-*.txt linguist-detectable=false 
 * linguist-language=Dart
