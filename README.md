@@ -10,7 +10,7 @@ Add Magic_sdk to your pubspec.yaml
 dependencies:
   flutter:
     sdk: flutter
-  magic_sdk: ^0.3.0
+  magic_sdk: ^0.5.0
 ```
 ## Add Dependencies
 ```dart
